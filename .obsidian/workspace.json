@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "1ffbcb7ae508f96c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef881b1201b9bbcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdce2e23bd0e5883",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c99c882c4c9f6dfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6098b6ee87ba4554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87aba15c26b2d86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "70cb8863f8568ab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c4dd23c511933ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "93e899e3a2cd0cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "be4304eb6b097ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1f6be91d645e4c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9a3e2bd038886674",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c64d9edcd49608d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc9a04a72bec6af4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d87aba15c26b2d86",
+  "lastOpenFiles": [
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Setup",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203456.png",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/1. install-guide-for-vmware-workstation.md",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426210706.png",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203907.png",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203846.png",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203801.png",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Fresh install using VMware Workstation/install-guide-for-vmware-workstation.md",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426084004.png",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426084158.png",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426084237.png",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203408.png",
+    "Pasted image 20250426203300.png",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Setup/2. setup-guide-for-vmware-workstation.md",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Fresh install using VMware Workstation",
+    "kali-linux-2025.1a-installer-everything-amd64.iso.md",
+    "os-setup/kali-linux/VMware Workstation",
+    "README.md",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Fresh install using VMware Workstation/imgs",
+    "Hacking Lab Setup/Kali Linux",
+    "walkthroughs",
+    "Hacking Lab Setup",
+    "Welcome.md"
+  ]
+}
