@@ -10,14 +10,51 @@
           {
             "id": "fdce2e23bd0e5883",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hacking Lab Setup/Kali Linux/Tools/RustScan.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "RustScan"
+            }
+          },
+          {
+            "id": "2fce085ed86f799d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "walkthroughs/vulnhub/noob/walkthrough-vulnhub-noob.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "walkthrough-vulnhub-noob"
+            }
+          },
+          {
+            "id": "7ee3ad9f66d90b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "walkthroughs/vulnhub/noob/walkthrough-vulnhub-noob.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "walkthrough-vulnhub-noob"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 200
   },
   "right": {
     "id": "93e899e3a2cd0cbf",
@@ -161,34 +198,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d87aba15c26b2d86",
+  "active": "7ee3ad9f66d90b5f",
   "lastOpenFiles": [
+    "walkthroughs/vulnhub/noob/Pasted image 20250427175258.png",
+    "walkthroughs/vulnhub/noob/Pasted image 20250427170709.png",
+    "walkthroughs/vulnhub/noob/Pasted image 20250427142232.png",
+    "walkthroughs/vulnhub/noob/Pasted image 20250427143225.png",
+    "walkthroughs/vulnhub/noob/Pasted image 20250427142704.png",
+    "walkthroughs/vulnhub/noob/Pasted image 20250427142648.png",
+    "walkthroughs/vulnhub/noob/Pasted image 20250427142607.png",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Pasted image 20250427101619.png",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Virtual Network.md",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Pasted image 20250427100833.png",
+    "Hacking Lab Setup/Kali Linux/Tools/RustScan.md",
+    "walkthroughs/vulnhub/noob/walkthrough-vulnhub-noob.md",
+    "Hacking Lab Setup/Kali Linux/Tools",
+    "walkthroughs/vulnhub/noob/Pasted image 20250427175134.png",
+    "walkthroughs/vulnhub/noob/source.md",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Pasted image 20250427092600.png",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Add virtual machine.md",
+    "walkthroughs/vulnhub/noob",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/1. install-guide-for-vmware-workstation.md",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Add virtual machine",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub",
+    "Hacking Lab Setup/VMware Workstation 17 Pro",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Setup/New",
+    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Setup/2. setup-guide-for-vmware-workstation.md",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Setup",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203456.png",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/1. install-guide-for-vmware-workstation.md",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426210706.png",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203907.png",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203846.png",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203801.png",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Fresh install using VMware Workstation/install-guide-for-vmware-workstation.md",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426084004.png",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426084158.png",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426084237.png",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs/Pasted image 20250426203408.png",
-    "Pasted image 20250426203300.png",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Setup/2. setup-guide-for-vmware-workstation.md",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Fresh install using VMware Workstation",
     "kali-linux-2025.1a-installer-everything-amd64.iso.md",
-    "os-setup/kali-linux/VMware Workstation",
     "README.md",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Fresh install using VMware Workstation/imgs",
-    "Hacking Lab Setup/Kali Linux",
-    "walkthroughs",
-    "Hacking Lab Setup",
     "Welcome.md"
   ]
 }
