@@ -40,17 +40,19 @@
             }
           },
           {
-            "id": "7ee3ad9f66d90b5f",
+            "id": "2185504ff2689900",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "walkthroughs/vulnhub/noob/walkthrough-vulnhub-noob.md",
+                "file": "walkthroughs/vulnhub/Deathnote 1/walkthrough-vulnhub-deathnote 1.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "walkthrough-vulnhub-noob"
+              "title": "walkthrough-vulnhub-deathnote 1"
             }
           }
         ],
@@ -198,8 +200,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ee3ad9f66d90b5f",
+  "active": "d87aba15c26b2d86",
   "lastOpenFiles": [
+    "walkthroughs/vulnhub/noob/walkthrough-vulnhub-noob.md",
+    "general-tips/vulnhub - find target machine ip.md",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Pasted image 20250427101619.png",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Virtual Network.md",
+    "walkthroughs/vulnhub/Deathnote 1/walkthrough-vulnhub-deathnote 1.md",
+    "walkthroughs/vulnhub/Deathnote 1",
+    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Pasted image 20250427100833.png",
+    "general-tips",
     "walkthroughs/vulnhub/noob/Pasted image 20250427175258.png",
     "walkthroughs/vulnhub/noob/Pasted image 20250427170709.png",
     "walkthroughs/vulnhub/noob/Pasted image 20250427142232.png",
@@ -207,15 +217,10 @@
     "walkthroughs/vulnhub/noob/Pasted image 20250427142704.png",
     "walkthroughs/vulnhub/noob/Pasted image 20250427142648.png",
     "walkthroughs/vulnhub/noob/Pasted image 20250427142607.png",
-    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Pasted image 20250427101619.png",
-    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Virtual Network.md",
-    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Pasted image 20250427100833.png",
     "Hacking Lab Setup/Kali Linux/Tools/RustScan.md",
-    "walkthroughs/vulnhub/noob/walkthrough-vulnhub-noob.md",
     "Hacking Lab Setup/Kali Linux/Tools",
     "walkthroughs/vulnhub/noob/Pasted image 20250427175134.png",
     "walkthroughs/vulnhub/noob/source.md",
-    "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Pasted image 20250427092600.png",
     "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Add virtual machine.md",
     "walkthroughs/vulnhub/noob",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/1. install-guide-for-vmware-workstation.md",
@@ -227,8 +232,6 @@
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Setup",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Fresh install using VMware Workstation/install-guide-for-vmware-workstation.md",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro",
-    "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/imgs",
     "kali-linux-2025.1a-installer-everything-amd64.iso.md",
     "README.md",
     "Welcome.md"
