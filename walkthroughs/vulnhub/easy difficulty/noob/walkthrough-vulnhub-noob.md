@@ -266,22 +266,20 @@ champ:password
 When booting the target virtual machine, you are prompted to provide credentials.
 Let's try them out.
 
-![[Pasted image 20250427142232.png]]
+![My Image](imgs/1.png)
 
 It does not work.
 
 The target machine also runs an http service.
 Let's inspect the page via the attacker machine.
 
-![[Pasted image 20250427142607.png]]
-![[Pasted image 20250427142648.png]]
+![My Image](imgs/2.png)
 
-
-![[Pasted image 20250427142704.png]]
+![My Image](imgs/4.png)
 
 Click on About Us. It will start a download.
 
-![[Pasted image 20250427143225.png]]
+![My Image](imgs/5.png)
 
 
 ```
@@ -321,7 +319,7 @@ I have no idea what is meant by this.
 
 However, when I would inspect funny.jpg and funny.bmp, I would find the image below...which is not funny at all. And I think this is a hint there is something going on with these images.
 
-![[Pasted image 20250427170709.png]]
+![My Image](imgs/6.png)
 
 ---
 
@@ -373,7 +371,7 @@ I went to the following site to examine my encoded string.
 
 https://www.dcode.fr/cipher-identifier
 
-![[Pasted image 20250427175134.png]]
+![My Image](imgs/7.png)
 
 As you see, the site suggests that I take a look into the ROT-13 Cipher.
 
@@ -381,7 +379,7 @@ By clicking on the suggested cipher, it redirected me to a ROT-13 decrypt tool o
 
 https://www.dcode.fr/rot-13-cipher
 
-![[Pasted image 20250427175258.png]]
+![My Image](imgs/8.png)
 
 The string was indeed encoded using the ROT-13 cipher and it hid the text: 
 `wtf:this one is a simple one`.

@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "walkthrough-vulnhub-deathnote"
             }
+          },
+          {
+            "id": "32cad154a92025ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "walkthroughs/vulnhub/easy difficulty/noob/walkthrough-vulnhub-noob.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "walkthrough-vulnhub-noob"
+            }
+          },
+          {
+            "id": "9cc3cbd0d67c366e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "walkthroughs/vulnhub/easy difficulty/noob/walkthrough-vulnhub-noob.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "walkthrough-vulnhub-noob"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,47 +196,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28c26eaaa3538fcb",
+  "active": "9cc3cbd0d67c366e",
   "lastOpenFiles": [
-    "Hacking Lab Setup/Kali Linux/Tools/Gobuster.md",
     "walkthroughs/vulnhub/easy difficulty/deathnote/walkthrough-vulnhub-deathnote.md",
+    "walkthroughs/vulnhub/easy difficulty/noob/walkthrough-vulnhub-noob.md",
+    "walkthroughs/vulnhub/easy difficulty/noob/imgs/1.png",
+    "walkthroughs/vulnhub/easy difficulty/noob/imgs",
+    "walkthroughs/vulnhub/easy difficulty/noob/imgs/7.png",
+    "walkthroughs/vulnhub/easy difficulty/noob/imgs/8.png",
+    "walkthroughs/vulnhub/easy difficulty/noob/imgs/6.png",
+    "walkthroughs/vulnhub/easy difficulty/noob/imgs/4.png",
+    "walkthroughs/vulnhub/easy difficulty/noob/imgs/3.png",
+    "walkthroughs/vulnhub/easy difficulty/noob/imgs/2.png",
+    "walkthroughs/vulnhub/easy difficulty/deathnote/imgs/1.png",
+    "walkthroughs/vulnhub/easy difficulty/deathnote/imgs",
+    "Hacking Lab Setup/VirtualBox/Prepare vulnhub boxes to work with VirtualBox/Networking.md",
+    "Hacking Lab Setup/Kali Linux/Tools/Gobuster.md",
     "Hacking Lab Setup/Kali Linux/Tools/RustScan.md",
     "general-tips/vulnhub - find target machine ip.md",
     "Pasted image 20250510183710.png",
     "Pasted image 20250510183651.png",
-    "walkthroughs/vulnhub/easy difficulty/deathnote/Pasted image 20250510122240.png",
-    "Pasted image 20250510183547.png",
-    "Pasted image 20250510183603.png",
-    "Pasted image 20250510183614.png",
-    "Pasted image 20250510183624.png",
     "Hacking Lab Setup/VirtualBox/Prepare vulnhub boxes to work with VirtualBox/Find target IP.md",
     "walkthroughs/vulnhub/easy difficulty/EvilBox-One/walkthrough-vulnhub-evilbox one.md",
     "walkthroughs/vulnhub/easy difficulty/deathnote",
     "walkthroughs/vulnhub/medium difficulty/Chronos 1/walkthrough-vulnhub-chronos 1.md",
     "walkthroughs/vulnhub/unspecified difficulty/Vikings 1/walkthrough-vulnhub-vikings 1.md",
-    "Hacking Lab Setup/VirtualBox/Prepare vulnhub boxes to work with VirtualBox/Networking.md",
     "Hacking Lab Setup/VirtualBox/Prepare vulnhub boxes to work with VirtualBox/Import .ova file in VirtualBox.md",
     "Hacking Lab Setup/VirtualBox/VirtualBox.md",
     "Hacking Lab Setup/VirtualBox/Prepare vulnhub boxes to work with VirtualBox",
     "Hacking Lab Setup/Kali Linux/Turn off auto lock.md",
     "Hacking Lab Setup/Kali Linux/Create new user.md",
-    "Pasted image 20250507105116.png",
-    "Pasted image 20250507105119.png",
-    "Pasted image 20250507105141.png",
     "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Virtual Network.md",
     "Hacking Lab Setup/VirtualBox",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/WIP Fresh install using VMware Workstation/install-guide-for-vmware-workstation.md",
     "Hacking Lab Setup/Kali Linux/VMware Workstation 17 Pro/Install/Prebuilt VM for VMware Workstation/1. install-guide-for-vmware-workstation.md",
     "Hacking Lab Setup/Kali Linux/Oracle VirtualBox/Install/Prebuilt VM for Oracle VirtualBox/1. install-guide-for-vmware-workstation.md",
-    "walkthroughs/vulnhub/easy difficulty/noob/walkthrough-vulnhub-noob.md",
     "Hacking Lab Setup/Kali Linux/Oracle VirtualBox/Install/Prebuilt VM for Oracle VirtualBox/imgs",
     "Hacking Lab Setup/Kali Linux/Oracle VirtualBox/Install/Prebuilt VM for Oracle VirtualBox",
     "Hacking Lab Setup/Kali Linux/Oracle VirtualBox/Install",
     "Hacking Lab Setup/Kali Linux/Oracle VirtualBox/Untitled.md",
     "Hacking Lab Setup/Kali Linux/Oracle VirtualBox",
     "walkthroughs/vulnhub/easy difficulty/EvilBox-One",
-    "walkthroughs/vulnhub/unspecified difficulty/Vikings 1",
-    "walkthroughs/vulnhub/unspecified difficulty",
     "walkthroughs/vulnhub/Deathnote 1/walkthrough-vulnhub-deathnote 1.md",
     "walkthroughs/vulnhub/noob/source.md",
     "Hacking Lab Setup/VMware Workstation 17 Pro/vulnhub/Add virtual machine.md",

@@ -52,7 +52,7 @@ In browser
 http://deathnote.vuln
 Note: without the http, the browser might want to automatically do a Google search on your url
 
-![[Pasted image 20250510122240.png]]
+![My Image](imgs/1.png)
 
 It forwards me to deatnote.vuln/wordpress
 
