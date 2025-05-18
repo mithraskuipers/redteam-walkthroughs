@@ -7,7 +7,7 @@ Find the IP of the target `noob` machine
 nmap 192.168.97.0/24 -O
 ```
 
-Scan the target `noob` target machine
+Scan the target `noob` machine
 
 ```
 nmap -sS -sV 192.168.97.128
@@ -273,13 +273,13 @@ It does not work.
 The target machine also runs an http service.
 Let's inspect the page via the attacker machine.
 
-![My Image](imgs/2.png)
+![My Image](walkthroughs/vulnhub/easy%20difficulty/noob/imgs/2.png)
 
-![My Image](imgs/4.png)
+![My Image](walkthroughs/vulnhub/easy%20difficulty/noob/imgs/4.png)
 
 Click on About Us. It will start a download.
 
-![My Image](imgs/5.png)
+![My Image](walkthroughs/vulnhub/easy%20difficulty/noob/imgs/5.png)
 
 
 ```
@@ -319,7 +319,7 @@ I have no idea what is meant by this.
 
 However, when I would inspect funny.jpg and funny.bmp, I would find the image below...which is not funny at all. And I think this is a hint there is something going on with these images.
 
-![My Image](imgs/6.png)
+![My Image](walkthroughs/vulnhub/easy%20difficulty/noob/imgs/6.png)
 
 ---
 
@@ -351,7 +351,6 @@ steghide: could not extract any data with that passphrase!
 └─$ cat hint.py             
 This is_not a python file but you are revolving around.
 well, try_ to rotate some words too.
-
 ```
 
 I could not extract the contents of funny.bmp using steghide since I do not know the password.
@@ -371,7 +370,7 @@ I went to the following site to examine my encoded string.
 
 https://www.dcode.fr/cipher-identifier
 
-![My Image](imgs/7.png)
+![My Image](walkthroughs/vulnhub/easy%20difficulty/noob/imgs/7.png)
 
 As you see, the site suggests that I take a look into the ROT-13 Cipher.
 
