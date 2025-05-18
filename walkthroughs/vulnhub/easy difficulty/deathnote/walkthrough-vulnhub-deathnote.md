@@ -33,9 +33,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 6.48 seconds
 ```
 
-
-
-
 Browser
 192.168.97.5:80
 
@@ -44,7 +41,6 @@ Error
 ```
 # Hmm. We’re having trouble finding that site.
 ```
-
 
 sudo nano /etc/hosts
 
@@ -127,7 +123,7 @@ deatnote.vuln/wordpress/index.php/hint
 
 This page displays the following text
 
-![[imgs/2.png]]
+![My Image](imgs/2.png)
 
 ---
 
@@ -174,9 +170,10 @@ nikto -h deathnote.vuln
 ---
 When you visit this page, you'll see the following
 
-![[imgs/3.png]]
-![[imgs/4.png]]
-![[imgs/5.png]]
+
+![My Image](imgs/3.png)
+![My Image](imgs/4.png)
+![My Image](imgs/5.png)
 
 At the bottom, you see notes.txt and user.txt
 
@@ -354,7 +351,7 @@ l@deathnote:~$ cat user.txt
 This is clearly a code.
 Let's use `https://www.dcode.fr/cipher-identifier` to find out what cypher was used.
 
-![[imgs/6.png]]
+![My Image](imgs/6.png)
 
 Reverse cipher the brainfuck code on `https://www.dcode.fr/brainfuck-language`
 
@@ -446,7 +443,7 @@ l@deathnote:/opt/L/fake-notebook-rule$ cat case.wav
 
 I used cyberchef to decode the code.
 
-![[imgs/7.png]]
+![My Image](imgs/7.png)
 
 ```
 passwd : kiraisevil
