@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Lab Setup/Parrot OS/Download Virtual Machine.md",
+                "file": "Hacking Lab Setup/Kali Linux/Download Virtual Machine.md",
                 "mode": "source",
                 "source": false
               },
@@ -43,16 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking Lab Setup/Kali Linux/Add Virtual Machine to VirtualBox.md",
+                "file": "walkthroughs/vulnhub/easy difficulty/deathnote/walkthrough-vulnhub-deathnote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add Virtual Machine to VirtualBox"
+              "title": "walkthrough-vulnhub-deathnote"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,14 +196,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "472294d588581f6a",
+  "active": "6f97d79b49bea7df",
   "lastOpenFiles": [
-    "Hacking Lab Setup/Parrot OS/Add Virtual Machine to VirtualBox.md",
+    "Hacking Lab Setup/Parrot OS/Download Virtual Machine.md",
+    "walkthroughs/vulnhub/easy difficulty/deathnote/walkthrough-vulnhub-deathnote.md",
     "Hacking Lab Setup/Kali Linux/Add Virtual Machine to VirtualBox.md",
+    "Hacking Lab Setup/Parrot OS/Add Virtual Machine to VirtualBox.md",
     "Hacking Lab Setup/Kali Linux/Download Virtual Machine.md",
     "Hacking Lab Setup/Kali Linux/imgs/kali-download.gif",
     "Hacking Lab Setup/Kali Linux/imgs",
-    "Hacking Lab Setup/Parrot OS/Download Virtual Machine.md",
     "Hacking Lab Setup/Parrot OS/imgs/parrotos-download.gif",
     "Hacking Lab Setup/VirtualBox/Prepare vulnhub boxes to work with VirtualBox/Find target IP.md",
     "Hacking Lab Setup/VirtualBox/Prepare vulnhub boxes to work with VirtualBox/Import .ova file in VirtualBox.md",
@@ -215,7 +216,6 @@
     "Hacking Lab Setup/Kali Linux/Turn off auto lock.md",
     "Hacking Lab Setup/Kali Linux/Create new user.md",
     "Hacking Lab Setup/Parrot OS",
-    "walkthroughs/vulnhub/easy difficulty/deathnote/walkthrough-vulnhub-deathnote.md",
     "walkthroughs/vulnhub/easy difficulty/noob/walkthrough-vulnhub-noob.md",
     "README.md",
     "walkthroughs/vulnhub/easy difficulty/deathnote/imgs/7.png",

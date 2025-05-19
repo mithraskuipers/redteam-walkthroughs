@@ -1,3 +1,3 @@
 https://parrotsec.org/download/
 
-![](./imgs/parrotos-download.gif)
+![My Image](imgs/parrotos-download.gif)
