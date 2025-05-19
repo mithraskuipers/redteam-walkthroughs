@@ -1,2 +1,2 @@
-File
-Import Appliance
+1. File
+2. Import Appliance
